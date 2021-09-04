@@ -19,6 +19,7 @@ https://github.com/GoogleContainerTools/jib/pull/1571,testability_body,irrelevan
 https://github.com/antlr/antlr4/pull/2405,testability_body,irrelevant,irrelevant,,,pr50,Reviewer1
 https://github.com/apache/nifi/pull/3119,testability_body,incl_ref_for_test,other,nifi-nar-bundles/nifi-framework-bundle/nifi-framework/nifi-authorizer/src/main/java/org/apache/nifi/authorization/AuthorizerFactoryBean.java,https://github.com/apache/nifi/pull/3119/files#diff-0e63412a5af651a0a77cb85c6073a1b93642435956db12218dcd0944a7765130R68,pr50,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/4432,testability_body,irrelevant,irrelevant,,,pr50,Reviewer1
+https://github.com/novoda/download-manager/pull/318,testability_body,irrelevant,irrelevant,,,pr50,Reviewer1
 https://github.com/palantir/atlasdb/pull/729,testability_body,only_ref_for_test,widen_access_for_invocation,atlasdb-impl-shared/src/main/java/com/palantir/atlasdb/sweep/SweepTaskRunnerImpl.java,https://github.com/palantir/atlasdb/pull/729/files#diff-0adc66f79c9d010dcb3563f1f83155fd66b3de9677fc273495637a6a789e7c4bR228,pr50,Reviewer1
 https://github.com/optimizely/android-sdk/pull/1,testability_body,incl_ref_for_test,other,,,pr50,Reviewer1
 https://github.com/eclipse-archived/smarthome/pull/5528,testability_body,incl_ref_for_test,extract_class_for_override,extensions/binding/org.eclipse.smarthome.binding.hue/src/main/java/org/eclipse/smarthome/binding/hue/handler/HueLightHandler.java,https://github.com/eclipse-archived/smarthome/pull/5528/files#diff-fc88a6c4e0a0ccccca1c8c49cb6706bb469bd660c6118c6f8da2c986f9872fabR351,pr50,Reviewer1
@@ -41,6 +42,7 @@ https://github.com/RPTools/maptool/pull/1329,testability_body,incl_ref_for_test,
 https://github.com/warmshowers/wsandroid/pull/312,testability_body,incl_ref_for_test,add_constructor_param,app/src/main/java/fi/bitrite/android/ws/api/ServiceFactory.java,https://github.com/warmshowers/wsandroid/pull/312/files#diff-e89d5ba3d2baa26dbfb42ee1bd6be1268cde7d02745550218ecb6def52712145R24,pr50,Reviewer1
 https://github.com/checkstyle/checkstyle/pull/7035,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/google/volley/pull/172,testability_body,incl_ref_for_test,extract_method_for_invocation,src/main/java/com/android/volley/CacheDispatcher.java,https://github.com/checkstyle/checkstyle/pull/7035/files#diff-b26323efdecdffba05ca1c130e5ec979ad1599014dd8d5710f54e3d072f1a483R255,pr130,Reviewer1
+https://github.com/bugsnag/bugsnag-android/pull/682,testability_body,only_ref_for_test,extract_method_for_invocation,bugsnag-android-core/src/main/java/com/bugsnag/android/Client.java,https://github.com/bugsnag/bugsnag-android/pull/682/files#diff-ffea83a6d46d36db514a51cd675a8fea9b3779bb079d5739ba65427e26d32c01R159,pr130,Reviewer1
 https://github.com/pentaho/pentaho-metaverse/pull/59,testability_body,incl_ref_for_test,add_constructor_param,src/main/java/com/pentaho/metaverse/locator/FileSystemLocator.java,https://github.com/pentaho/pentaho-metaverse/pull/59/files#diff-489c7ffaed85db00b3762c0b47a3d8dee070f95343789d1aa57647a68323659dR150,pr130,Reviewer1
 https://github.com/hawkular/hawkular-metrics/pull/7,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/thorntail/thorntail/pull/189,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
@@ -51,6 +53,7 @@ https://github.com/Alluxio/alluxio/pull/3780,testability_body,irrelevant,irrelev
 https://github.com/liquibase/liquibase/pull/590,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/edx/edx-app-android/pull/262,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/wildfly/wildfly-core/pull/999,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
+https://github.com/ankidroid/Anki-Android/pull/5815,testability_body,incl_ref_for_test,extract_method_for_invocation,AnkiDroid/src/main/java/com/ichi2/anki/AbstractFlashcardViewer.java,https://github.com/ankidroid/Anki-Android/pull/5815/files#diff-76eaf6fee9aa0f3198591dcc660995763061eb0ac958576c81eb22dd509032c5R233,pr130,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/4951,testability_body,incl_ref_for_test,extract_class_for_invocation,dhis-2/dhis-services/dhis-service-dxf2/src/main/java/org/hisp/dhis/dxf2/metadata/objectbundle/DefaultObjectBundleValidationService.java,,pr130,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/4952,testability_body,incl_ref_for_test,extract_class_for_invocation,dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/preheat/DefaultPreheatService.java,,pr130,Reviewer1
 https://github.com/broadinstitute/gatk/pull/522,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
@@ -62,6 +65,7 @@ https://github.com/hazelcast/hazelcast/pull/4529,testability_body,incl_ref_for_t
 https://github.com/googleapis/gapic-generator/pull/1279,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/ankidroid/Anki-Android/pull/6293,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/ISISComputingGroup/ibex_gui/pull/855,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
+https://github.com/pentaho/pentaho-platform/pull/3114,testability_body,only_ref_for_test,extract_method_for_override,core/src/org/pentaho/platform/engine/security/SecurityHelper.java,,pr130,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/5014,testability_body,incl_ref_for_test,extract_class_for_invocation,dhis-2/dhis-services/dhis-service-dxf2/src/main/java/org/hisp/dhis/dxf2/metadata/objectbundle/DefaultObjectBundleValidationService.java,https://github.com/dhis2/dhis2-core/pull/5015/files?diff=split&w=1#diff-3b57e829cdc5588bf3172f2d8ac297055cd2eb468719dcc8939e426806bd8545R89,pr130,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/5015,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/google/guice/pull/1372,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
@@ -109,6 +113,7 @@ https://github.com/spring-projects/spring-boot/pull/18214,testability_body,irrel
 https://github.com/ISISComputingGroup/ibex_gui/pull/615,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/ISISComputingGroup/ibex_gui/pull/657,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
 https://github.com/ISISComputingGroup/ibex_gui/pull/665,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
+https://github.com/Azure/azure-event-hubs-java/pull/435,testability_body,only_ref_for_test,widen_access_for_invocation,,,pr130,Reviewer1
 https://github.com/hazelcast/hazelcast-aws/pull/168,testability_body,only_ref_for_test,override_system_time,,https://github.com/hazelcast/hazelcast-aws/pull/168/files#diff-3c826832d04aced686d3c841bd75b3b78ca6f7a880335ab0e3ec2ba28a15dcdaR44,pr130,Reviewer1
 https://github.com/hazelcast/hazelcast-aws/pull/168,testability_body,only_ref_for_test,add_constructor_param,,https://github.com/hazelcast/hazelcast-aws/pull/168/files#diff-3c826832d04aced686d3c841bd75b3b78ca6f7a880335ab0e3ec2ba28a15dcdaR63,pr130,Reviewer1
 https://github.com/dhis2/dhis2-core/pull/3607,testability_body,irrelevant,irrelevant,,,pr130,Reviewer1
@@ -385,6 +390,7 @@ https://github.com/traccar/traccar/pull/935,Inject,irrelevant,irrelevant,,,exter
 https://github.com/ExpediaDotCom/adaptive-alerting/pull/764,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/apache/beam/pull/1941,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/k9mail/k-9/pull/4856,Inject,incl_ref_for_test,add_constructor_param,app/core/src/main/java/com/fsck/k9/controller/MessagingController.java,https://github.com/k9mail/k-9/pull/4856/files#diff-97acc66b57cd50ae9242e82c59cd1c1fe25bee2dd31c845e9df1464cd516ac54R142,externally_reviewed_PRs.csv,Reviewer1
+https://github.com/apache/bookkeeper/pull/1393,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/dropwizard/dropwizard/pull/2522,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/dropwizard/dropwizard/pull/1023,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/pentaho/pentaho-kettle/pull/1139,Inject,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
@@ -402,6 +408,7 @@ https://github.com/grpc/grpc-java/pull/5364,Concurrency,irrelevant,irrelevant,,,
 https://github.com/alibaba/Sentinel/pull/1335,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/k9mail/k-9/pull/2203,Concurrency,incl_ref_for_test,extract_method_for_invocation,k9mail/src/main/java/com/fsck/k9/controller/MessagingController.java,https://github.com/k9mail/k-9/pull/2203/files#diff-b8ac0fb1b435ffad47ce8daa8e43ed5ad05059a2fce0aae807d5043cbb7b8718R140,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/confluentinc/common/pull/241,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
+https://github.com/eclipse/rdf4j/pull/2210,Concurrency,incl_ref_for_test,extract_method_for_invocation,,https://github.com/eclipse/rdf4j/pull/2210,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/grpc/grpc-java/pull/4150,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/census-instrumentation/opencensus-java/pull/729,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/Alluxio/alluxio/pull/6776,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
@@ -409,7 +416,7 @@ https://github.com/traccar/traccar/pull/4367,Concurrency,irrelevant,irrelevant,,
 https://github.com/samtools/htsjdk/pull/1056,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/jchambers/pushy/pull/3,Concurrency,irrelevant,irrelevant,,,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/kiegroup/kie-wb-common/pull/45,testability,incl_ref_for_test,widen_access_for_invocation,kie-wb-common-screens/kie-wb-common-server-ui/kie-wb-common-server-ui-backend/src/main/java/org/kie/workbench/common/screens/server/management/backend/RemoteAccessImpl.java,https://github.com/kiegroup/kie-wb-common/pull/45/files?diff=split&w=1#diff-2cb118bf3da16cd4a36308f48ccd8c30dd2b04af9abbd0d04581f3805c89e4aaR165,externally_reviewed_PRs.csv,Reviewer1
-https://github.com/kiegroup/kie-wb-common/pull/45,testability,incl_ref_for_test,extract_method_for_override,kie-wb-common-screens/kie-wb-common-server-ui/kie-wb-common-server-ui-backend/src/main/java/org/kie/workbench/common/screens/server/management/backend/RemoteAccessImpl.java,https://github.com/kiegroup/kie-wb-common/pull/45/files?diff=split&w=1#diff-2cb118bf3da16cd4a36308f48ccd8c30dd2b04af9abbd0d04581f3805c89e4aaR45,externally_reviewed_PRs.csv,
+https://github.com/kiegroup/kie-wb-common/pull/45,testability,incl_ref_for_test,extract_method_for_override,kie-wb-common-screens/kie-wb-common-server-ui/kie-wb-common-server-ui-backend/src/main/java/org/kie/workbench/common/screens/server/management/backend/RemoteAccessImpl.java,https://github.com/kiegroup/kie-wb-common/pull/45/files?diff=split&w=1#diff-2cb118bf3da16cd4a36308f48ccd8c30dd2b04af9abbd0d04581f3805c89e4aaR45,externally_reviewed_PRs.csv,Reviewer1
 https://github.com/Activiti/Activiti/pull/584,Other,incl_ref_for_test,extract_method_for_override,modules/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/UserEntity.java,https://github.com/Activiti/Activiti/pull/584/files?diff=split&w=1#diff-9c85e33a00abba9ba6b6b9d2111b8d440676a0e43704a745449ff5cc80caf97cR40,manually_reviewed.csv,Reviewer1
 https://github.com/Activiti/Activiti/pull/584,Other,incl_ref_for_test,extract_method_for_override,modules/activiti-engine/src/main/java/org/activiti/engine/impl/persistence/entity/UserEntity.java,https://github.com/Activiti/Activiti/pull/584/files?diff=split&w=1#diff-9c85e33a00abba9ba6b6b9d2111b8d440676a0e43704a745449ff5cc80caf97cR45,manually_reviewed.csv,Reviewer1
 https://github.com/Alluxio/alluxio/pull/1629,test,incl_ref_for_test,widen_access_for_invocation,servers/src/main/java/tachyon/master/block/BlockMaster.java,https://github.com/Alluxio/alluxio/pull/1629/files?diff=split&w=1#diff-05f6d61b3485c9cae64cdb03bd18f3fadf5edc4c7eeb0a00846545fbe323dea1R92,manually_reviewed.csv,Reviewer1
@@ -443,7 +450,7 @@ https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/743,test,incl_
 https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/743,test,incl_ref_for_test,extract_method_for_invocation,linkage-monitor/src/main/java/com/google/cloud/tools/dependencies/linkagemonitor/LinkageMonitor.java,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/743/files?diff=split&w=1#diff-8c1334b01760dd12687bfdc53187665681b33a434814ad824e501a3493a04373R157,manually_reviewed.csv,Reviewer1
 https://github.com/grpc/grpc-java/pull/1270,test,incl_ref_for_test,widen_access_for_invocation,core/src/main/java/io/grpc/internal/ServerCallImpl.java,https://github.com/grpc/grpc-java/pull/1270/files#diff-eb52e5439a3edc906eefac835a8df6f59a3aa9f19a9ec5ed62024fa19bcda4ecR135,manually_reviewed.csv,Reviewer1
 https://github.com/grpc/grpc-java/pull/3029,testability,incl_ref_for_test,widen_access_for_override,core/src/main/java/io/grpc/internal/AbstractManagedChannelImplBuilder.java,https://github.com/grpc/grpc-java/pull/3029/files?diff=split&w=1#diff-daee08ff4a4ba923599b66efc890057364c2e38046e102a5c968ffb72ea772dbR194,manually_reviewed.csv,Reviewer1
-https://github.com/grpc/grpc-java/pull/3094,testability,incl_ref_for_test,inject_dependency,core/src/test/java/io/grpc/internal/ServerImplTest.java,https://github.com/grpc/grpc-java/pull/3094/files#diff-18f2014d08f971729a6422e80eae0ce16dab9639129ac4522d9a4c75cb1a420cR551,manually_reviewed.csv,Reviewer1
+https://github.com/grpc/grpc-java/pull/3094,testability,incl_ref_for_test,add_constructor_param,core/src/test/java/io/grpc/internal/ServerImplTest.java,https://github.com/grpc/grpc-java/pull/3094/files#diff-18f2014d08f971729a6422e80eae0ce16dab9639129ac4522d9a4c75cb1a420cR551,manually_reviewed.csv,Reviewer1
 https://github.com/hcoles/pitest/pull/633,testability,incl_ref_for_test,extract_class_for_invocation,pitest-command-line/src/main/java/org/pitest/mutationtest/commandline/MutationCoverageReport.java,https://github.com/hcoles/pitest/pull/633/files#diff-d7b188bb27b4b45bd0f761b0d2b364772993b0886f15b522412b5889cc28bc85R36,manually_reviewed.csv,Reviewer1
 https://github.com/hmcts/idam-web-public/pull/196,test,only_ref_for_test,extract_method_for_invocation,src/main/java/uk/gov/hmcts/reform/idam/web/AppController.java,https://github.com/hmcts/idam-web-public/pull/196/files#diff-d93287afc1cbdc3eff5dd0907d0b70b934aa349ac8b3fe440fbb5dfcf849ea93R361,manually_reviewed.csv,Reviewer1
 https://github.com/ikasanEIP/ikasan/pull/7,Inject,incl_ref_for_test,extract_method_for_override,ikasaneip/component/endpoint/quartz-schedule/src/main/java/org/ikasan/component/endpoint/quartz/consumer/ScheduledConsumer.java,https://github.com/ikasanEIP/ikasan/pull/7/files#diff-b138a55b1b35d190f52910a6543b72bc5de5562dfda3c400d392dc1961c36d10R268,manually_reviewed.csv,Reviewer1
@@ -497,6 +504,7 @@ https://github.com/pentaho/pentaho-platform/pull/3010,Other,incl_ref_for_test,ex
 https://github.com/pentaho/pentaho-platform/pull/3696,Refactor for test,only_ref_for_test,extract_method_for_override,extensions/src/main/java/org/pentaho/platform/plugin/action/ActionInvokerSystemListener.java,https://github.com/pentaho/pentaho-platform/pull/3696/files#diff-6c168c7169cb7c7e40dbc54b709313e6532ae92dc3ca451cd6cc860e3f08e0b0R131,manually_reviewed.csv,Reviewer1
 https://github.com/pentaho/pentaho-platform/pull/3696,Refactor for test,only_ref_for_test,extract_method_for_override,extensions/src/main/java/org/pentaho/platform/plugin/action/ActionInvokerSystemListener.java,https://github.com/pentaho/pentaho-platform/pull/3696/files#diff-6c168c7169cb7c7e40dbc54b709313e6532ae92dc3ca451cd6cc860e3f08e0b0R48,manually_reviewed.csv,Reviewer1
 https://github.com/pentaho/pentaho-platform/pull/3696,Refactor for test,only_ref_for_test,widen_access_for_invocation,extensions/src/main/java/org/pentaho/platform/plugin/action/ActionInvokerSystemListener.java,https://github.com/pentaho/pentaho-platform/pull/3696/files#diff-6c168c7169cb7c7e40dbc54b709313e6532ae92dc3ca451cd6cc860e3f08e0b0R127,manually_reviewed.csv,Reviewer1
+https://github.com/pinpoint-apm/pinpoint/pull/1082,Dependency,incl_ref_for_test,extract_method_for_override,web/src/main/java/com/navercorp/pinpoint/web/view/ServerInstanceSerializer.java,https://github.com/pinpoint-apm/pinpoint/pull/1082/files?diff=split&w=1#diff-994b13c954de61f3d87f138004e80b5659a4bb0f937604228c1fb5f1d10c3fceR96,manually_reviewed.csv,Reviewer1
 https://github.com/pinpoint-apm/pinpoint/pull/2922,Other,incl_ref_for_test,extract_class_for_invocation,profiler/src/main/java/com/navercorp/pinpoint/profiler/monitor/DefaultAgentStatMonitor.java,https://github.com/pinpoint-apm/pinpoint/pull/2922/files?diff=split&w=1#diff-2b078ad91949578c5722666c9cfcc04eb49f5e020baca483420ddc27db4d7fc8R52,manually_reviewed.csv,Reviewer1
 https://github.com/strimzi/strimzi-kafka-operator/pull/217,test,incl_ref_for_test,widen_access_for_invocation,cluster-controller/src/main/java/io/strimzi/controller/cluster/resources/ZookeeperCluster.java,https://github.com/strimzi/strimzi-kafka-operator/pull/217/files?diff=split&w=1#diff-a8afbac653fc22d7cef29b52ae8326afda802c5a012cd370bb4529af4b4e9a4cR150,manually_reviewed.csv,Reviewer1
 https://github.com/strimzi/strimzi-kafka-operator/pull/217,test,incl_ref_for_test,widen_access_for_invocation,cluster-controller/src/main/java/io/strimzi/controller/cluster/resources/ZookeeperCluster.java,https://github.com/strimzi/strimzi-kafka-operator/pull/217/files?diff=split&w=1#diff-a8afbac653fc22d7cef29b52ae8326afda802c5a012cd370bb4529af4b4e9a4cR151,manually_reviewed.csv,Reviewer1
@@ -506,13 +514,16 @@ https://github.com/Texera/texera/pull/353,Refactor for test,only_ref_for_test,ch
 https://github.com/tomakehurst/wiremock/pull/823,Concurrency,incl_ref_for_test,extract_method_for_override,src/main/java/com/github/tomakehurst/wiremock/core/Options.java,https://github.com/tomakehurst/wiremock/pull/823/files#diff-7b00cfd7ad9e70bebea6954a5567ea899bd512b6266c6651ea64fb3099e40bbfR60,manually_reviewed.csv,Reviewer1
 https://github.com/webdetails/cpk/pull/28,Inject,incl_ref_for_test,extract_method_for_override,cpk-core/src/pt/webdetails/cpk/elements/impl/KettleElementHelper.java,https://github.com/webdetails/cpk/pull/28/files#diff-94be3659e3e99c42312b9e20a4da95da330f5d909ec303a88f85bc0356dd3d4bR263,manually_reviewed.csv,Reviewer1
 https://github.com/zalando/zalenium/pull/8,Refactor for test,only_ref_for_test,extract_method_for_override,src/main/java/de/zalando/tip/zalenium/proxy/DockerSeleniumStarterRemoteProxy.java,https://github.com/zalando/zalenium/pull/8/files#diff-68f614c5bc7e3ba452e116e27489327442eac86339011e160df15503b7ceec9dR298,manually_reviewed.csv,Reviewer1
+https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969,test,only_ref_for_test,extract_method_for_invocation,plugins/com.google.cloud.tools.eclipse.appengine.newproject.maven/src/com/google/cloud/tools/eclipse/appengine/newproject/maven/MavenAppEngineStandardWizardPage.java,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969/files?diff=split&w=1#diff-eeb575b530450ac30e8b3cc876ee53da8e03b9a77da6c8765e4f885e85f68da8R59,manually_reviewed.csv,Reviewer1
 https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/413,testability,only_ref_for_test,add_constructor_param,com.zsmartsystems.zigbee.dongle.ember/src/main/java/com/zsmartsystems/zigbee/dongle/ember/internal/EzspProtocolHandler.java,https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/413/files?diff=split&w=1#diff-ff63c45be7f1001fa2465cd831999d705cf1a3b0e02263de53ffaf3f7d44d990R114,manually_reviewed.csv,Reviewer1
 https://github.com/yonadev/yona-server/pull/459,testability,incl_ref_for_test,extract_class_for_invocation,analysisservice/src/main/java/nu/yona/server/analysis/service/AnalysisEngineService.java,https://github.com/yonadev/yona-server/pull/459/files?diff=split&w=1#diff-8593b85870a122994f0e27586e5c80a87738275cb6820fe76afbd7f594c18c73R105,manually_reviewed.csv,Reviewer1
 https://github.com/neo4j/neo4j-java-driver/pull/165,Network,incl_ref_for_test,add_constructor_param,driver/src/main/java/org/neo4j/driver/internal/connector/socket/TLSSocketChannel.java,https://github.com/neo4j/neo4j-java-driver/pull/165/files?diff=split&w=1#diff-a33b87fa4f70110c9d14e13ff67b97379e2c1b18b61fa8f5fad8ec933cdf0f6aR147,manually_reviewed.csv,Reviewer1
+https://github.com/dropwizard/dropwizard/pull/198,test,incl_ref_for_test,extract_method_for_invocation,dropwizard-core/src/main/java/com/yammer/dropwizard/jetty/AsyncRequestLog.java,https://github.com/dropwizard/dropwizard/pull/198/files?diff=split&w=1#diff-4c50e118826c32661016badcaa59937026b8c97028a04e05caba220a9e88faa8R26,manually_reviewed.csv,Reviewer1
 https://github.com/forcedotcom/SalesforceMobileSDK-Android/pull/885,Dependency,incl_ref_for_test,extract_method_for_invocation,libs/SalesforceSDK/src/com/salesforce/androidsdk/rest/RestClient.java,dependencies/src/main/java/com/google/cloud/tools/opensource/dependencies/DependencyPath.java,manually_reviewed.csv,Reviewer1
 https://github.com/Graylog2/graylog2-server/pull/3896,Inject,incl_ref_for_test,extract_class_for_override,graylog2-server/src/main/java/org/graylog2/indexer/IndexMappingFactory.java,https://github.com/Graylog2/graylog2-server/pull/3896/files?diff=split&w=1#diff-5b1b571f70974b7d2ed5b6c448502b363dfb9f652bb35632928d58e130b3da31R43,manually_reviewed.csv,Reviewer1
 https://github.com/sialcasa/mvvmFX/pull/266,testability,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/k9mail/k-9/pull/1211,Refactor for test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
+https://github.com/OpenRefine/OpenRefine/pull/2833,test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/pentaho/pentaho-platform/pull/1715,Refactor for test,irrelevant,irrelevant,extensions/src/org/pentaho/platform/web/http/api/resources/services/FileService.java,,manually_reviewed.csv,Reviewer1
 https://github.com/TheAlgorithms/Java/pull/643,Refactor for test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/NationalSecurityAgency/datawave/pull/693,test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
@@ -588,6 +599,7 @@ https://github.com/Netflix/Hystrix/pull/797,Concurrency,irrelevant,irrelevant,,,
 https://github.com/azkaban/azkaban/pull/2201,Concurrency,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/eclipse/jetty.project/pull/3591,Concurrency,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/linkedin/ambry/pull/1047,Concurrency,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
+https://github.com/grpc/grpc-java/pull/2452,Concurrency,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/querydsl/querydsl/pull/2537,Refactor for test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/pentaho/pentaho-metaverse/pull/29,Refactor for test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
 https://github.com/apache/shardingsphere/pull/4598,Refactor for test,irrelevant,irrelevant,,,manually_reviewed.csv,Reviewer1
@@ -749,24 +761,23 @@ https://github.com/radixdlt/radixdlt-java/pull/64,Network,irrelevant,,,,hiwi1,Re
 https://github.com/pentaho/pentaho-platform/pull/2793,Inject,incl_ref_for_test,extract_method_for_invocation,user-console/source/org/pentaho/mantle/rebind/EventBusUtilGenerator.java,https://github.com/pentaho/pentaho-platform/pull/2793/files?diff=split&w=1#diff-80ca59ef80434e0f56b69ddd3f60ae731636696ac952675cc909e5d232ed7e13R50,hiwi1,Reviewer2
 https://github.com/kiegroup/jbpm/pull/664,test,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/kiegroup/drools-wb/pull/822,Other,incl_ref_for_test,widen_access_for_invocation,drools-wb-screens/drools-wb-guided-rule-editor/drools-wb-guided-rule-editor-client/src/main/java/org/drools/workbench/screens/guided/rule/client/widget/operator/SingleFieldConstraintOperatorSelector.java,https://github.com/kiegroup/drools-wb/pull/822/files#diff-0d4d23200c2286c514a9be53a07f1bb657ebf39eebf894b721b7f0c1d41dc340R215,hiwi1,Reviewer2
-https://github.com/kiegroup/drools-wb/pull/822,,incl_ref_for_test,irrelevant,drools-wb-screens/drools-wb-guided-rule-editor/drools-wb-guided-rule-editor-client/src/main/java/org/drools/workbench/screens/guided/rule/client/widget/FactPatternWidget.java,https://github.com/kiegroup/drools-wb/pull/822/files#diff-0d4d23200c2286c514a9be53a07f1bb657ebf39eebf894b721b7f0c1d41dc340R240,hiwi1,Reviewer2
-https://github.com/kiegroup/drools-wb/pull/822,,incl_ref_for_test,extract_class_for_override,drools-wb-screens/drools-wb-guided-rule-editor/drools-wb-guided-rule-editor-client/src/main/java/org/drools/workbench/screens/guided/rule/client/widget/operator/SingleFieldConstraintOperatorSelector.java,https://github.com/kiegroup/drools-wb/pull/822/files#diff-4db700f46a77adf6b204e382b96f7f0c16ac15ec46ddd6adb053217c10541ca1R84,hiwi1,Reviewer2
+https://github.com/kiegroup/drools-wb/pull/822,Other,incl_ref_for_test,extract_class_for_override,drools-wb-screens/drools-wb-guided-rule-editor/drools-wb-guided-rule-editor-client/src/main/java/org/drools/workbench/screens/guided/rule/client/widget/operator/SingleFieldConstraintOperatorSelector.java,https://github.com/kiegroup/drools-wb/pull/822/files#diff-4db700f46a77adf6b204e382b96f7f0c16ac15ec46ddd6adb053217c10541ca1R84,hiwi1,Reviewer2
 https://github.com/virtual-imaging-platform/VIP-portal/pull/52,testability_body,incl_ref_for_test,add_constructor_param,Portal/vip-api/src/main/java/fr/insalyon/creatis/vip/api/business/ExecutionBusiness.java,https://github.com/virtual-imaging-platform/VIP-portal/pull/52/files?diff=split&w=1#diff-13549f1d21288236ba0914311174d6101485912b667699d3ed832f85881808e3R70,hiwi1,Reviewer2
 https://github.com/apache/druid/pull/1079,Dependency,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/find-sec-bugs/find-sec-bugs/pull/246,Concurrency,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/hbz/oerworldmap/pull/968,Refactor for test,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/cdk/cdk/pull/173,testability_body,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/zeromq/jeromq/pull/468,Network,incl_ref_for_test,extract_method_for_override,src/main/java/zmq/poll/PollerBase.java,https://github.com/zeromq/jeromq/pull/468/files?diff=split&w=1#diff-022b027ef6e5be1b9aed38b585b0bdbb72e1d0e1d3e92cf140c1bceb98b17fa4R12,hiwi1,Reviewer2
-https://github.com/zeromq/jeromq/pull/468,,incl_ref_for_test,widen_access_for_invocation,src/main/java/zmq/poll/PollerBase.java,https://github.com/zeromq/jeromq/pull/468/files?diff=split&w=1#diff-d1a5df79dbd0a55ee5e6d8a44ffbaa699563e12d46feaa9d15573f626993043aR32,hiwi1,Reviewer2
+https://github.com/zeromq/jeromq/pull/468,Network,incl_ref_for_test,widen_access_for_invocation,src/main/java/zmq/poll/PollerBase.java,https://github.com/zeromq/jeromq/pull/468/files?diff=split&w=1#diff-d1a5df79dbd0a55ee5e6d8a44ffbaa699563e12d46feaa9d15573f626993043aR32,hiwi1,Reviewer2
 https://github.com/flightstats/hub/pull/1023,Concurrency,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/square/okio/pull/219,test,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/getodk/collect/pull/3038,testability_body,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/confluentinc/ksql/pull/3061,Dependency,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/getsentry/sentry-java/pull/750,testability_body,only_ref_for_test,add_constructor_param,sentry/src/main/java/io/sentry/config/Lookup.java,https://github.com/getsentry/sentry-java/pull/750/files?diff=split&w=1#diff-1612c08fc954eb2a580c1c3681d6952f57c92cbe8efa88f84c42bc44c2eb8e43R22,hiwi1,Reviewer2
-https://github.com/getsentry/sentry-java/pull/750,,only_ref_for_test,extract_class_for_override,sentry/src/main/java/io/sentry/config/Lookup.java,https://github.com/getsentry/sentry-java/pull/750/files?diff=split&w=1#diff-1612c08fc954eb2a580c1c3681d6952f57c92cbe8efa88f84c42bc44c2eb8e43R19,hiwi1,Reviewer2
+https://github.com/getsentry/sentry-java/pull/750,testability_body,only_ref_for_test,extract_class_for_override,sentry/src/main/java/io/sentry/config/Lookup.java,https://github.com/getsentry/sentry-java/pull/750/files?diff=split&w=1#diff-1612c08fc954eb2a580c1c3681d6952f57c92cbe8efa88f84c42bc44c2eb8e43R19,hiwi1,Reviewer2
 https://github.com/STAMP-project/dspot/pull/66,test,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/STAMP-project/dspot/pull/885,Refactor for test,only_ref_for_test,extract_method_for_invocation,dspot/src/main/java/eu/stamp_project/utils/test_finder/TestFinder.java,https://github.com/STAMP-project/dspot/pull/885/files#diff-0cdaa33773d1c7fca3462f6ed66621d6c8b48b9304a91143fc45887e1392f4f1R37,hiwi1,Reviewer2
-https://github.com/STAMP-project/dspot/pull/885,,only_ref_for_test,widen_access_for_invocation,dspot/src/main/java/eu/stamp_project/utils/test_finder/TestFinder.java,https://github.com/STAMP-project/dspot/pull/885/files#diff-0cdaa33773d1c7fca3462f6ed66621d6c8b48b9304a91143fc45887e1392f4f1R51,hiwi1,Reviewer2
+https://github.com/STAMP-project/dspot/pull/885,Refactor for test,only_ref_for_test,widen_access_for_invocation,dspot/src/main/java/eu/stamp_project/utils/test_finder/TestFinder.java,https://github.com/STAMP-project/dspot/pull/885/files#diff-0cdaa33773d1c7fca3462f6ed66621d6c8b48b9304a91143fc45887e1392f4f1R51,hiwi1,Reviewer2
 https://github.com/dhis2/dhis2-core/pull/6153,Other,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/checkstyle/checkstyle/pull/1365,testability,incl_ref_for_test,widen_access_for_invocation,src/main/java/com/puppycrawl/tools/checkstyle/Utils.java,https://github.com/checkstyle/checkstyle/pull/1365/files?diff=split&w=1#diff-05e1e6c4032cb0fd7f8e922355ae7edc392a2be366a8d94b3d0088b3edf37facR176,hiwi1,Reviewer2
 https://github.com/microsoft/azure-spring-boot/pull/139,Singleton,irrelevant,,,,hiwi1,Reviewer2
@@ -777,8 +788,8 @@ https://github.com/palantir/atlasdb/pull/4338,testability_body,incl_ref_for_test
 https://github.com/confluentinc/ksql/pull/3198,Refactor for test,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/SonarSource/sonar-java/pull/750,Inject,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/k9mail/k-9/pull/1553,testability_body,only_ref_for_test,extract_class_for_override,k9mail/src/main/java/com/fsck/k9/message/MessageBuilder.java,https://github.com/k9mail/k-9/pull/1553/files?diff=split&w=1#diff-35f5b4f5c3b9390204fa4a6db9a294fab644575526002cb62bf3b520fc1b92c3R249,hiwi1,Reviewer2
-https://github.com/k9mail/k-9/pull/1553,,only_ref_for_test,extract_class_for_invocation,k9mail-library/src/main/java/com/fsck/k9/mail/internet/MessageIdGenerator.java,,hiwi1,Reviewer2
-https://github.com/k9mail/k-9/pull/1553,,only_ref_for_test,extract_method_for_override,k9mail-library/src/main/java/com/fsck/k9/mail/internet/MessageIdGenerator.java,https://github.com/k9mail/k-9/pull/1553/files?diff=split&w=1#diff-337c6eba73d3ebea3bd08e38fc5519692a84a4f123fe4e4dbcc85f932b278c88R25,hiwi1,Reviewer2
+https://github.com/k9mail/k-9/pull/1553,testability_body,only_ref_for_test,extract_class_for_invocation,k9mail-library/src/main/java/com/fsck/k9/mail/internet/MessageIdGenerator.java,,hiwi1,Reviewer2
+https://github.com/k9mail/k-9/pull/1553,testability_body,only_ref_for_test,extract_method_for_override,k9mail-library/src/main/java/com/fsck/k9/mail/internet/MessageIdGenerator.java,https://github.com/k9mail/k-9/pull/1553/files?diff=split&w=1#diff-337c6eba73d3ebea3bd08e38fc5519692a84a4f123fe4e4dbcc85f932b278c88R25,hiwi1,Reviewer2
 https://github.com/yegor256/takes/pull/200,Refactor for test,only_ref_for_test,extract_class_for_override,src/main/java/org/takes/facets/auth/social/PsLinkedin.java,https://github.com/yegor256/takes/pull/200/files?diff=split&w=1#diff-61dcbb1cf5c1c91c5e9b3c960bc4ebfd318760feecd9a5968c5f16d8cde7abbbR192,hiwi1,Reviewer2
 https://github.com/apache/rocketmq/pull/2000,Concurrency,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/eclipse-archived/smarthome/pull/6413,Inject,irrelevant,,,,hiwi1,Reviewer2
@@ -798,7 +809,7 @@ https://github.com/google/guice/pull/1373,testability_body,only_ref_for_test,add
 https://github.com/Netflix/spectator/pull/474,Singleton,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/debezium/debezium/pull/1739,testability_body,incl_ref_for_test,extract_class_for_invocation,debezium-core/src/main/java/io/debezium/jdbc/JdbcValueConverters.java,https://github.com/debezium/debezium/pull/1739/files?diff=split&w=1#diff-8dacf297117e75fa5153c21726526b137b82b03df3ddf2f0b8c6278b33cd9a30R11,hiwi1,Reviewer2
 https://github.com/jmxtrans/jmxtrans/pull/241,testability_body,incl_ref_for_test,extract_class_for_invocation,src/com/googlecode/jmxtrans/model/Server.java,,hiwi1,Reviewer2
-https://github.com/jmxtrans/jmxtrans/pull/241,,incl_ref_for_test,extract_method_for_invocation,src/com/googlecode/jmxtrans/JmxTransformer.java,https://github.com/jmxtrans/jmxtrans/pull/241/files?diff=split&w=1#diff-eced6342de19f1ad45311917a737340806fbe1760f7ab3087ef04570658e68a9R28,hiwi1,Reviewer2
+https://github.com/jmxtrans/jmxtrans/pull/241,testability_body,incl_ref_for_test,extract_method_for_invocation,src/com/googlecode/jmxtrans/JmxTransformer.java,https://github.com/jmxtrans/jmxtrans/pull/241/files?diff=split&w=1#diff-eced6342de19f1ad45311917a737340806fbe1760f7ab3087ef04570658e68a9R28,hiwi1,Reviewer2
 https://github.com/square/keywhiz/pull/458,Singleton,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/SonarSource/sonarqube/pull/80,testability_body,irrelevant,,,,hiwi1,Reviewer2
 https://github.com/elastic/apm-agent-java/pull/1218,test,irrelevant,,,,hiwi1,Reviewer2
@@ -850,7 +861,7 @@ https://github.com/grpc/grpc-java/pull/6526,Singleton,irrelevant,,,,hiwi2,Review
 https://github.com/forcedotcom/SalesforceMobileSDK-Android/pull/818,Refactor for test,irrelevant,,,,hiwi2,Reviewer3
 https://github.com/firebase/firebase-android-sdk/pull/575,testability_body,incl_ref_for_test,add_constructor_param,transport/transport-runtime/src/main/java/com/google/android/datatransport/runtime/scheduling/persistence/SQLiteEventStore.java,https://github.com/firebase/firebase-android-sdk/pull/575/files#diff-c799b7bd21c787536ccf81dc711a82efa061f8dda1896b94af3bc2f2d641ba97R67,hiwi2,Reviewer3
 https://github.com/apache/rocketmq/pull/198,Other,incl_ref_for_test,extract_method_for_override,,,hiwi2,Reviewer3
-https://github.com/getodk/collect/pull/1581,,only_ref_for_test,extract_class_for_override,,,hiwi2,Reviewer3
+https://github.com/getodk/collect/pull/1581,testability_body,only_ref_for_test,extract_class_for_override,,,hiwi2,Reviewer3
 https://github.com/getodk/collect/pull/1581,testability_body,only_ref_for_test,extract_method_for_invocation,collect_app/src/main/java/org/odk/collect/android/activities/BearingActivity.java,https://github.com/getodk/collect/pull/1581/files#diff-0d069a15315643fda966bba2c34be67f0c3a2bc515af3b1bbbb0c1da89644fdaR406,hiwi2,Reviewer3
 https://github.com/yegor256/takes/pull/507,test,irrelevant,,,,hiwi2,Reviewer3
 https://github.com/SonarSource/sonar-java/pull/2,Other,irrelevant,,,,hiwi2,Reviewer3
@@ -891,12 +902,12 @@ https://github.com/microsoft/ApplicationInsights-Java/pull/816,Refactor for test
 https://github.com/intuit/karate/pull/1314,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/micrometer-metrics/micrometer/pull/593,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/apache/bookkeeper/pull/2333,testability_body,incl_ref_for_test,add_constructor_param,bookkeeper-server/src/main/java/org/apache/bookkeeper/client/ReadLastConfirmedOp.java,https://github.com/apache/bookkeeper/pull/2333/files?diff=split&w=1#diff-2824c64a13c57f42fd58dbb382db0ba701e3d56850aaaae1f2e3062c2af0ce35R90,hiwi3,Reviewer4
-https://github.com/apache/bookkeeper/pull/2333,,incl_ref_for_test,exract_method_for_invocation,bookkeeper-server/src/main/java/org/apache/bookkeeper/client/ReadLastConfirmedOp.java,https://github.com/apache/bookkeeper/pull/2333/files?diff=split&w=1#diff-2824c64a13c57f42fd58dbb382db0ba701e3d56850aaaae1f2e3062c2af0ce35R104,hiwi3,Reviewer4
+https://github.com/apache/bookkeeper/pull/2333,testability_body,incl_ref_for_test,extract_method_for_invocation,bookkeeper-server/src/main/java/org/apache/bookkeeper/client/ReadLastConfirmedOp.java,https://github.com/apache/bookkeeper/pull/2333/files?diff=split&w=1#diff-2824c64a13c57f42fd58dbb382db0ba701e3d56850aaaae1f2e3062c2af0ce35R104,hiwi3,Reviewer4
 https://github.com/square/wire/pull/619,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/676,test,incl_ref_for_test,widen_access_for_invocation,src/main/java/com/google/cloud/tools/appengine/cloudsdk/serialization/CloudSdkVersion.java,https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/676/files?diff=split&w=1#diff-4d3567e1759b83730c1736d6b8138f6a95d27c0e5612835cf3aee2bdaf81d0a1,hiwi3,Reviewer4
 https://github.com/ankidroid/Anki-Android/pull/5054,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/apache/incubator-heron/pull/694,Refactor for test,incl_ref_for_test,extract_method_for_override,heron/scheduler-core/src/java/com/twitter/heron/scheduler/RuntimeManagerMain.java,https://github.com/apache/incubator-heron/pull/694/files?file-filters%5B%5D=.java&w=1#diff-9e584d73f147296cc864a9a993a8bfbc8527e71c7d9b8e83b741c42a89605af0R110,hiwi3,Reviewer4
-https://github.com/apache/incubator-heron/pull/694,,incl_ref_for_test,create_constructor,heron/scheduler-core/src/java/com/twitter/heron/scheduler/SubmitterMain.java,https://github.com/apache/incubator-heron/pull/694/files?diff=split&w=1#diff-77f1245f023be9c064b1fcb1e3ceeb1ad11b0225e3cdc46f4e51cfd91fb2360fR53,hiwi3,Reviewer4
+https://github.com/apache/incubator-heron/pull/694,Refactor for test,incl_ref_for_test,create_constructor,heron/scheduler-core/src/java/com/twitter/heron/scheduler/SubmitterMain.java,https://github.com/apache/incubator-heron/pull/694/files?diff=split&w=1#diff-77f1245f023be9c064b1fcb1e3ceeb1ad11b0225e3cdc46f4e51cfd91fb2360fR53,hiwi3,Reviewer4
 https://github.com/jmxtrans/jmxtrans/pull/406,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/jmxtrans/jmxtrans/pull/735,Other,incl_ref_for_test,create_constructor,jmxtrans-core/src/main/java/com/googlecode/jmxtrans/model/ResultFixtures.java,https://github.com/jmxtrans/jmxtrans/pull/735/files?diff=split&w=1#diff-df65022d28d502071ada4231298bd31e142dfa97f481662e0e89fe4e9a4d7b9eR51,hiwi3,Reviewer4
 https://github.com/TheAlgorithms/Java/pull/754,Singleton,irrelevant,,,,hiwi3,Reviewer4
@@ -908,8 +919,7 @@ https://github.com/castorini/anserini/pull/1317,Refactor for test,irrelevant,,,,
 https://github.com/bazelbuild/bazel/pull/5334,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/PegaSysEng/pantheon/pull/809,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/MovingBlocks/Terasology/pull/2908,testability,only_ref_for_test,extract_method_for_invocation,engine/src/main/java/org/terasology/network/internal/NetworkSystemImpl.java,https://github.com/MovingBlocks/Terasology/pull/2908/files?diff=split&w=1#diff-9d31ec8abb789dfec1eadb383fbd1a96721e30268f3889e0b3d42ebb973679efR64,hiwi3,Reviewer4
-https://github.com/MovingBlocks/Terasology/pull/2908,,only_ref_for_test,extract_method_for_invocation,engine/src/main/java/org/terasology/engine/modes/StateMainMenu.java,,hiwi3,Reviewer4
-https://github.com/MovingBlocks/Terasology/pull/2908,,only_ref_for_test,irrelevant,,,hiwi3,Reviewer4
+https://github.com/MovingBlocks/Terasology/pull/2908,testability,only_ref_for_test,extract_method_for_invocation,engine/src/main/java/org/terasology/engine/modes/StateMainMenu.java,,hiwi3,Reviewer4
 https://github.com/Texera/texera/pull/160,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/Graylog2/graylog2-server/pull/2529,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/hazelcast/hazelcast/pull/4682,Refactor for test,irrelevant,,,,hiwi3,Reviewer4
@@ -922,7 +932,6 @@ https://github.com/jmxtrans/jmxtrans/pull/640,Network,irrelevant,,,,hiwi3,Review
 https://github.com/openmrs/openmrs-core/pull/1551,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/OpenRefine/OpenRefine/pull/2839,test,incl_ref_for_test,extract_method_for_override,extensions/wikidata/src/org/openrefine/wikidata/qa/ConstraintFetcher.java,https://github.com/OpenRefine/OpenRefine/pull/2839/files#diff-367c88cfad59847336f818d4276255a5c1c23cf155073ae8a5511d8521c3eeeaR59,hiwi3,Reviewer4
 https://github.com/Cognifide/AEM-Rules-for-SonarQube/pull/39,Inject,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/bugsnag/bugsnag-android/pull/682,testability_body,only_ref_for_test,extract_method_for_override,bugsnag-android-core/src/main/java/com/bugsnag/android/ImmutableConfig.kt,https://github.com/bugsnag/bugsnag-android/pull/682/files#diff-ffea83a6d46d36db514a51cd675a8fea9b3779bb079d5739ba65427e26d32c01R158,hiwi3,Reviewer4
 https://github.com/windup/windup/pull/414,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/geotools/geotools/pull/141,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/cdk/cdk/pull/106,test,irrelevant,,,,hiwi3,Reviewer4
@@ -937,11 +946,9 @@ https://github.com/aerogear/aerogear-unifiedpush-server/pull/480,testability_bod
 https://github.com/apache/zeppelin/pull/492,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/pentaho/pentaho-kettle/pull/1541,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/thorntail/thorntail/pull/246,Dependency,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/pinpoint-apm/pinpoint/pull/1082,Dependency,only_ref_for_test,extract_method_for_invocation,web/src/main/java/com/navercorp/pinpoint/web/view/ServerInstanceSerializer.java,https://github.com/pinpoint-apm/pinpoint/pull/1082/files?diff=split&w=1#diff-994b13c954de61f3d87f138004e80b5659a4bb0f937604228c1fb5f1d10c3fceR96,hiwi3,Reviewer4
 https://github.com/AzureAD/microsoft-authentication-library-for-android/pull/473,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1089,Dependency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/Alluxio/alluxio/pull/5091,Network,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/OpenRefine/OpenRefine/pull/2833,test,incl_ref_for_test,widen_access_for_override,extensions/wikidata/src/org/openrefine/wikidata/qa/Constraint.java,https://github.com/OpenRefine/OpenRefine/pull/2833/files?diff=split&w=1#diff-d5407b5e4e9cbaf0e61cf2f5d6caedcaf20618583cf5e9fbb353d9e82e5fbb05R72,hiwi3,Reviewer4
 https://github.com/zsmartsystems/com.zsmartsystems.zigbee/pull/472,Refactor for test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/qos-ch/logback/pull/214,Network,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/dhis2/dhis2-core/pull/2892,Refactor for test,only_ref_for_test,create_constructor,dhis-2/dhis-services/dhis-service-core/src/main/java/org/hisp/dhis/sms/config/SmsMessageSender.java,https://github.com/dhis2/dhis2-core/pull/2892/files?diff=split&w=1#diff-755ce64247e7039b26560990d290fe0bbd03bcc0ce6ed7cb9f65ba0ae7b73134R118,hiwi3,Reviewer4
@@ -951,17 +958,14 @@ https://github.com/apache/druid/pull/399,Concurrency,irrelevant,,,,hiwi3,Reviewe
 https://github.com/SonarSource/sonar-java/pull/189,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/azkaban/azkaban/pull/1056,Refactor for test,incl_ref_for_test,create_constructor,azkaban-solo-server/src/main/java/azkaban/soloserver/AzkabanSingleServer.java,https://github.com/azkaban/azkaban/pull/1056/files?diff=split&w=1#diff-cb3217ccc41e9ac97bc2ceba4848cdb946f79fc283438315120b821128af3241R109,hiwi3,Reviewer4
 https://github.com/apache/maven/pull/363,Other,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/eclipse/rdf4j/pull/2210,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/telstra/open-kilda/pull/1965,Network,incl_ref_for_test,widen_access_for_override,services/wfm/src/main/java/org/openkilda/wfm/topology/event/OfeLinkBolt.java,https://github.com/telstra/open-kilda/pull/1965/files?diff=split&w=1#diff-adc2471711aa024319d50ff00213918462d33b605e29e95a847bff86c141e4d1R230,hiwi3,Reviewer4
-https://github.com/telstra/open-kilda/pull/1965,,incl_ref_for_test,widen_access_for_invocation,services/wfm/src/main/java/org/openkilda/wfm/topology/event/OfeLinkBolt.java,https://github.com/telstra/open-kilda/pull/1965/files?diff=split&w=1#diff-adc2471711aa024319d50ff00213918462d33b605e29e95a847bff86c141e4d1R232,hiwi3,Reviewer4
+https://github.com/telstra/open-kilda/pull/1965,Network,incl_ref_for_test,widen_access_for_invocation,services/wfm/src/main/java/org/openkilda/wfm/topology/event/OfeLinkBolt.java,https://github.com/telstra/open-kilda/pull/1965/files?diff=split&w=1#diff-adc2471711aa024319d50ff00213918462d33b605e29e95a847bff86c141e4d1R232,hiwi3,Reviewer4
 https://github.com/oracle/helidon/pull/1525,test,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/ankidroid/Anki-Android/pull/5815,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/173,Dependency,incl_ref_for_test,widen_access_for_invocation,dependencies/src/main/java/com/google/cloud/tools/opensource/dependencies/Artifacts.java,https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/173/files?diff=split&w=1#diff-86dcae10d2e11021ecc404fec625411f036066f55ddfa557647244937857db21R172,hiwi3,Reviewer4
 https://github.com/square/okio/pull/257,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/pinpoint-apm/pinpoint/pull/277,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/CorfuDB/CorfuDB/pull/1611,Refactor for test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/ConsenSys/tessera/pull/174,testability,incl_ref_for_test,extract_class_for_invocation,nexus-config-cli/src/main/java/com/github/nexus/config/cli/CliResult.java,https://github.com/ConsenSys/tessera/pull/174/files?diff=split&w=1#diff-40082e60499a6b7e3419f1b682c5270007b41c0be507defde4f5e48b76c2ace6R24,hiwi3,Reviewer4
-https://github.com/apache/bookkeeper/pull/1393,Inject,incl_ref_for_test,widen_access_for_invocation,bookkeeper-server/src/main/java/org/apache/bookkeeper/bookie/Bookie.java,https://github.com/apache/bookkeeper/pull/1393/files?diff=split&w=1#diff-2f80c46449139203fcd761f266f8222c586d014ab9de0a7e72e0ddb458f642d7R97,hiwi3,Reviewer4
 https://github.com/samtools/htsjdk/pull/36,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/exonum/exonum-java-binding/pull/140,Singleton,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/jcabi/jcabi-http/pull/183,Inject,irrelevant,,,,hiwi3,Reviewer4
@@ -971,35 +975,27 @@ https://github.com/Texera/texera/pull/350,Refactor for test,irrelevant,,,,hiwi3,
 https://github.com/mybatis/guice/pull/108,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/hector-client/hector/pull/468,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/alibaba/Sentinel/pull/205,Concurrency,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/Azure/azure-event-hubs-java/pull/435,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/apache/beam/pull/317,Singleton,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/novoda/download-manager/pull/318,testability_body,incl_ref_for_test,add_constructor_param,library/src/main/java/com/novoda/downloadmanager/DownloadManager.java,https://github.com/novoda/download-manager/pull/318/files?diff=split&w=1#diff-cd9fb4928de2c2f948396eb2649c37e4b21562bd610367195befe3f6d21788c8R82,hiwi3,Reviewer4
-https://github.com/novoda/download-manager/pull/318,,incl_ref_for_test,add_constructor_param,library/src/main/java/com/novoda/downloadmanager/DownloadManager.java,https://github.com/novoda/download-manager/pull/318/files?diff=split&w=1#diff-cd9fb4928de2c2f948396eb2649c37e4b21562bd610367195befe3f6d21788c8R83,hiwi3,Reviewer4
 https://github.com/pentaho/pentaho-platform/pull/1942,Inject,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/dropwizard/dropwizard/pull/198,test,incl_ref_for_test,other,dropwizard-core/src/main/java/com/yammer/dropwizard/jetty/AsyncRequestLog.java,https://github.com/dropwizard/dropwizard/pull/198/files?diff=split&w=1#diff-4c50e118826c32661016badcaa59937026b8c97028a04e05caba220a9e88faa8R26,hiwi3,Reviewer4
 https://github.com/geoserver/geoserver/pull/1199,Singleton,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/kiegroup/appformer/pull/639,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/bazelbuild/bazel/pull/5094,test,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/pentaho/pentaho-platform/pull/3114,testability_body,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/227,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/pentaho/pentaho-platform/pull/1913,Inject,incl_ref_for_test,extract_method_for_invocation,scheduler/src/org/pentaho/platform/scheduler2/email/Emailer.java,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R23,hiwi3,Reviewer4
-https://github.com/pentaho/pentaho-platform/pull/1913,,incl_ref_for_test,extract_method_for_invocation,scheduler/src/org/pentaho/platform/scheduler2/email/Emailer.java,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R24,hiwi3,Reviewer4
-https://github.com/pentaho/pentaho-platform/pull/1913,,incl_ref_for_test,extract_method_for_invocation,scheduler/src/org/pentaho/platform/scheduler2/email/Emailer.java,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R25,hiwi3,Reviewer4
+https://github.com/pentaho/pentaho-platform/pull/1913,Inject,incl_ref_for_test,extract_method_for_invocation,scheduler/src/org/pentaho/platform/scheduler2/email/Emailer.java,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R24,hiwi3,Reviewer4
+https://github.com/pentaho/pentaho-platform/pull/1913,Inject,incl_ref_for_test,extract_method_for_invocation,scheduler/src/org/pentaho/platform/scheduler2/email/Emailer.java,https://github.com/pentaho/pentaho-platform/pull/1913/files?diff=split&w=1#diff-87cb133a4d1fe4f35a02b9a942ff60119136d0f24ceb641d9f1860953caf5628R25,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/cloud-opensource-java/pull/1466,Dependency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/CloudSlang/score/pull/216,Dependency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/apache/shardingsphere/pull/1662,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/molgenis/molgenis/pull/2329,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/dropwizard/dropwizard/pull/2741,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/scijava/scijava-common/pull/332,Singleton,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/grpc/grpc-java/pull/2452,Concurrency,only_ref_for_test,other,core/src/test/java/io/grpc/internal/FakeClock.java,https://github.com/grpc/grpc-java/pull/2452/files?diff=split&w=1#diff-9fd6c792c02213ae2b107b0c7d9ead5b30bf31119fecaa53954aab46bdfb0949R156,hiwi3,Reviewer4
 https://github.com/grpc/grpc-java/pull/5723,Concurrency,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/apache/incubator-heron/pull/536,test,incl_ref_for_test,extract_method_for_override,heron/schedulers/src/java/com/twitter/heron/scheduler/local/LocalScheduler.java,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR82,hiwi3,Reviewer4
-https://github.com/apache/incubator-heron/pull/536,,incl_ref_for_test,extract_method_for_override,heron/schedulers/src/java/com/twitter/heron/scheduler/local/LocalScheduler.java,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR83,hiwi3,Reviewer4
-https://github.com/apache/incubator-heron/pull/536,,incl_ref_for_test,extract_method_for_invocation,heron/schedulers/src/java/com/twitter/heron/scheduler/local/LocalScheduler.java,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR77,hiwi3,Reviewer4
+https://github.com/apache/incubator-heron/pull/536,test,incl_ref_for_test,extract_method_for_override,heron/schedulers/src/java/com/twitter/heron/scheduler/local/LocalScheduler.java,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR83,hiwi3,Reviewer4
+https://github.com/apache/incubator-heron/pull/536,test,incl_ref_for_test,extract_method_for_invocation,heron/schedulers/src/java/com/twitter/heron/scheduler/local/LocalScheduler.java,https://github.com/apache/incubator-heron/pull/536/files#diff-a053ee8dc2fc86c17a5f5a900a7b1d0de8763658f4068b603c3779e85c28a83aR77,hiwi3,Reviewer4
 https://github.com/checkstyle/checkstyle/pull/1462,Refactor for test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/OpenGamma/Strata/pull/702,Other,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969,test,only_ref_for_test,other,plugins/com.google.cloud.tools.eclipse.appengine.newproject.maven/src/com/google/cloud/tools/eclipse/appengine/newproject/maven/MavenAppEngineStandardWizardPage.java,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969/files?diff=split&w=1#diff-eeb575b530450ac30e8b3cc876ee53da8e03b9a77da6c8765e4f885e85f68da8R129,hiwi3,Reviewer4
-https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969,,only_ref_for_test,other,plugins/com.google.cloud.tools.eclipse.appengine.newproject.maven/src/com/google/cloud/tools/eclipse/appengine/newproject/maven/MavenAppEngineStandardWizardPage.java,https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1969/files?diff=split&w=1#diff-9de1760c3fed0892101b89c8baff3f709c9d220a27b738badcfbab99e0971e09R166,hiwi3,Reviewer4
 https://github.com/asakusafw/asakusafw/pull/824,test,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/ConsenSys/tessera/pull/200,Network,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/google-cloud-eclipse/pull/1862,Dependency,irrelevant,,,,hiwi3,Reviewer4
@@ -1012,6 +1008,6 @@ https://github.com/castorini/anserini/pull/899,Refactor for test,irrelevant,,,,h
 https://github.com/CorfuDB/CorfuDB/pull/1052,Other,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/Atmosphere/atmosphere/pull/1221,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/314,test,irrelevant,,,,hiwi3,Reviewer4
-https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/163,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/GoogleCloudPlatform/appengine-plugins-core/pull/314,test,irrelevant,,,,hiwi3,Reviewer4
+https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/163,Inject,irrelevant,,,,hiwi3,Reviewer4
 https://github.com/Adobe-Consulting-Services/acs-aem-commons/pull/163,Inject,irrelevant,,,,hiwi3,Reviewer4
